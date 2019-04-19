@@ -1,0 +1,7 @@
+c:\users\melek\documents\visual studio 2010\Projects\sınırsız kayan\sınırsız kayan\obj\x86\Debug\sınırsız_kayan.Form1.resources
+c:\users\melek\documents\visual studio 2010\Projects\sınırsız kayan\sınırsız kayan\obj\x86\Debug\sınırsız_kayan.Properties.Resources.resources
+c:\users\melek\documents\visual studio 2010\Projects\sınırsız kayan\sınırsız kayan\obj\x86\Debug\sınırsız kayan.csproj.GenerateResource.Cache
+c:\users\melek\documents\visual studio 2010\Projects\sınırsız kayan\sınırsız kayan\bin\Debug\sınırsız kayan.exe
+c:\users\melek\documents\visual studio 2010\Projects\sınırsız kayan\sınırsız kayan\bin\Debug\sınırsız kayan.pdb
+c:\users\melek\documents\visual studio 2010\Projects\sınırsız kayan\sınırsız kayan\obj\x86\Debug\sınırsız kayan.exe
+c:\users\melek\documents\visual studio 2010\Projects\sınırsız kayan\sınırsız kayan\obj\x86\Debug\sınırsız kayan.pdb
